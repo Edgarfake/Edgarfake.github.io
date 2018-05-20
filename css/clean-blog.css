@@ -13,7 +13,10 @@ p a {
   text-decoration: underline;
 }
 
-h1,
+h1{
+  color: #FFF;
+}
+
 h2,
 h3,
 h4,
